@@ -174,9 +174,3 @@ Boton.addEventListener("click", ()=>{
             break
 }
 })
-
-
-
-
-
-// SEGUIR CON LAS DEMÁS OPCIONES DE MENU()
