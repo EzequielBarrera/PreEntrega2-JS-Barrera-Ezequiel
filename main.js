@@ -122,6 +122,7 @@ function Consultar(){
 
 function OrdenarArray(){
     Empleados.sort((a,b) => a.id - b.id)
+    console.log(Empleados)
 }
 
 //Función "Ver empleados"
